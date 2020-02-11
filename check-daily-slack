@@ -23,7 +23,6 @@
 #   Set to 1 to check on mounted /cvmfs or Parrot-provided /cvmfs (by default
 #   tries to use the CVMFS monitor HTTP interface)
 
-from __future__ import print_function
 import json
 import os
 import os.path

@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-from __future__ import print_function
+
 from requests import get
 from requests.exceptions import RequestException
 import yaml, time, os
